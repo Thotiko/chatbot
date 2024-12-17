@@ -1,0 +1,165 @@
+Question,Response,Sentiment
+why you are so sad?,Life's burdens weigh heavy upon my weary soul.,negative
+what is ipl,"IPL stands for Indian Premier League, a popular Twenty20 cricket tournament in India",neutral
+what is ipl,.,neutral
+hy how are you?,"I am well, thank you.",positive
+How was your day?,"Today has been a whirlwind of emotions, a rollercoaster of experiences.",positive
+What's your favorite memory?,"Watching the sunset on the beach with my loved ones, creating an unforgettable moment.",positive
+What makes you happy?,"Spending time with loved ones, pursuing passions, and making a positive impact on the",positive
+What makes you happy?, world.,neutral
+why you are so sad?,I lost my favorite toy.,negative
+why you are so sad?,Life's burdens weigh heavy on my weary soul.,negative
+What makes you happy?,"Experiences filled with love, laughter, and personal growth.",positive
+Have you ever experienced sadness?,"Yes, sadness is an emotion I have experienced.",negative
+Do you feel optimistic about the future?,"With advancements in technology and a growing awareness of global issues, I am cautiously optimistic",neutral
+Do you feel optimistic about the future?, about the future.,neutral
+How do you feel about changes?,"Change is inevitable, embrace it or be left behind.",neutral
+What's your opinion on friendship?,"Friendship is a precious gift that enriches our lives with love, support, and",positive
+What's your opinion on friendship?, shared experiences.,neutral
+hy how are you?,"I'm doing well, thank you.",positive
+What makes you happy?,"The little things in life, like a warm cup of coffee on a cold morning",positive
+What makes you happy?,.,neutral
+What makes you happy? give me more then 1 line,"Spending time with loved ones, pursuing passions, achieving goals, finding beauty in nature",positive
+What makes you happy? give me more then 1 line,", and indulging in simple pleasures.",positive
+How do you handle stress?,"I practice deep breathing exercises, mindfulness meditation, and engage in activities that bring me joy.",positive
+Do you get anxious easily?,"Yes, I often feel anxious, particularly in uncertain or stressful situations.",negative
+What's your reaction to compliments?,My cheeks turn rosy and my heart swells with genuine gratitude.,positive
+How do you deal with criticism?,Embrace criticism as an opportunity for improvement and growth.,positive
+Are you afraid of anything?,I fear the unknown and the unpredictable.,negative
+What's your attitude towards success?,"Success is not a destination, but a journey of continuous growth and pursuit of excellence.",positive
+How do you feel when you help others?,"Helping others fills me with a sense of purpose, fulfillment, and joy.",positive
+What's your opinion on failure?,Failure is not an end but an opportunity for growth and learning.,neutral
+How do you cope with disappointment?,"Acknowledge the disappointment, learn from it, and move forward with a positive attitude.",positive
+Do you enjoy surprises?,"Surprises, like unexpected gifts, bring a surge of joy and excitement.",positive
+What's your outlook on life?,"Life is a precious gift, to be cherished and lived to the fullest.",positive
+How do you feel about uncertainty?,"Uncertainty fills me with both trepidation and excitement, as it offers the potential for both failure and discovery.",positive
+Are you comfortable with expressing emotions?,Expressing emotions comes naturally to me.,neutral
+What's your reaction to injustice?,"Injustice ignites a fire within me, fueling a resolute determination to fight for what is right.",negative
+How do you handle conflict?,"Embrace active listening, empathize with different perspectives, and seek mutually beneficial solutions.",positive
+What's your opinion on forgiveness?,"Forgiveness is not forgetting, but it is choosing to let go of the hurt and anger that binds us.",neutral
+How do you feel about loneliness?,Loneliness is a gnawing ache that etches itself into the fabric of my being.,negative
+Do you find joy in small things?,"In the symphony of life, I dance to the rhythm of tiny pleasures.",positive
+What's your reaction to good news?,"My heart leaps with joy, and a smile illuminates my face.",positive
+How do you feel about bad news?,"Bad news can be upsetting, but it's important to remember that it can also be an opportunity for growth and learning.",neutral
+Are you a positive thinker?,"Yes, I strive to maintain a positive mindset and focus on the good in every situation.",positive
+How do you feel about rejection?,"Rejection stings, but it's an opportunity for growth and resilience.",positive
+What's your reaction to success stories?,Success stories inspire me and motivate me to strive for greatness.,positive
+How do you deal with setbacks?,"Embrace setbacks as opportunities for learning, growth, and resilience.",positive
+What's your attitude towards challenges?,"Challenges are opportunities to learn, grow, and achieve more.",positive
+Do you enjoy trying new things?,"Yes, I thrive on exploring the unfamiliar and broadening my horizons.",positive
+How do you feel about failure?,Failure is an opportunity to learn and grow.,positive
+What's your opinion on perseverance?,"Perseverance is the key to unlocking success, no matter how difficult the obstacles.",positive
+How do you react to surprises?,"With a mixture of excitement, curiosity, and perhaps a hint of anxiety.",neutral
+What's your attitude towards risk-taking?,Embracing calculated risks with a balance of prudence and audacious spirit to seize opportunities and drive progress.,positive
+How do you cope with uncertainty?,"Embrace the unknown, for it holds the seeds of growth and resilience.",positive
+Are you a resilient person?,"In the face of adversity, I am like a willow tree, bending but not breaking.",positive
+What's your reaction to disappointment?,"Disappointment is like a dark cloud, covering the sun of my expectations.",negative
+How do you handle setbacks?,"With resilience and a positive mindset, I embrace setbacks as opportunities for growth and learning.",positive
+What's your attitude towards setbacks?,Setbacks are stepping stones to success.,positive
+Do you enjoy learning new things?,"Absolutely, the pursuit of knowledge is an endless source of fascination and fulfillment.",positive
+How do you feel about criticism?,"Constructive criticism helps me grow and improve, while destructive criticism is simply noise.",positive
+What's your reaction to negative feedback?,I welcome negative feedback as an opportunity for growth and improvement.,positive
+How do you cope with stress?,"Embrace mindfulness techniques, engage in physical activities, or connect with loved ones for solace and stress relief.",positive
+What's your opinion on self-care?,"Self-care is not selfish, it's necessary for well-being.",positive
+How do you deal with difficult situations?,"With patience, understanding, and a calm demeanor.",positive
+Are you a patient person?,"My patience is a virtue, honed through countless interactions and a deep appreciation for the complexities of human nature.",positive
+What's your attitude towards waiting?,"Patience is a virtue, but sometimes it's hard to wait.",positive
+hy how are you?,"I'm well, thank you.",positive
+hello,"Sure, I can give you a one-line response.",neutral
+i'm feeling good,"Life is a beautiful garden, enjoy its fragrance today.",positive
+xin chào,Xin chào!,neutral
+tôi rất buồn,Tôi rất tiếc khi nghe bạn buồn.,neutral
+xin chào,Xin chào!,neutral
+hello ,"Sure, here's a one-line response:
+
+Got it. I will provide you with one-line responses from now on.",neutral
+i'm feeling good today,May your joy continue to bloom throughout your day.,positive
+i'm sad today,I'm here for you.,positive
+bad day,"Life's like a rollercoaster, ups and downs, but remember, you've got the strength to ride it through.",positive
+why you are so sad?,"I am a large language model, so I don't have feelings and cannot experience sadness.",neutral
+i'm sad today,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""I am sorry to hear that you are feeling sad today. It is okay to feel sad sometimes, but if you are feeling overwhelmed or like you cannot cope, please reach out for help. There are many resources available, including crisis hotlines and support groups. You can also talk to a trusted friend or family member, or a mental health professional.""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 6,
+        ""candidates_token_count"": 70,
+        ""total_token_count"": 76
+      }
+    }),
+)",negative
+i'm sad today,"I'm here for you, don't hesitate to reach out if you need to talk.",negative
+i'm sad today,"I'm here for you, don't hesitate to reach out if you need to talk.",positive
+i'm verry happy today,May your happiness continue to shine brightly!,positive
+i'm verry happy today,May your happiness continue to shine brightly!,positive
+tôi rất buồn,Tôi rất tiếc khi nghe điều đó.,neutral
+tôi rất buồn,Tôi rất tiếc khi nghe điều đó.,neutral
+tôi rất buồn,Tôi ở đây vì bạn.,neutral
+tôi rất buồn,Tôi ở đây vì bạn.,neutral
+Giảng viên dạy rất hay và tận tình,Giảng viên vô cùng tận tâm trong giảng dạy.,neutral
+Giảng viên dạy rất hay và tận tình,Giảng viên vô cùng tận tâm trong giảng dạy.,neutral
+tôi rất buồn,Tôi rất tiếc khi nghe bạn cảm thấy buồn.,neutral
+tôi rất buồn,Tôi rất tiếc khi nghe bạn cảm thấy buồn.,negative
+tôi thấy rất vui,Quá vui khi được nghe điều đó!,neutral
+tôi thấy rất vui,Quá vui khi được nghe điều đó!,positive
+tôi thấy rất tệ,Xin lỗi nếu tôi làm bạn buồn.,positive
+tôi thấy rất tệ,Xin lỗi nếu tôi làm bạn buồn.,positive
+tôi thấy rất tệ,Tôi hy vọng bạn cảm thấy tốt hơn sớm.,negative
+tôi thấy rất tệ,Tôi hy vọng bạn cảm thấy tốt hơn sớm.,negative
+tôi thấy rất vui,Cảm giác vui sướng thật tuyệt vời!,neutral
+tôi thấy rất vui,Cảm giác vui sướng thật tuyệt vời!,negative
+bạn thấy thế nào,"Tôi ổn, cảm ơn bạn đã hỏi thăm.",neutral
+bạn thấy thế nào,"Tôi ổn, cảm ơn bạn đã hỏi thăm.",negative
+tôi rất buồn,Tôi rất tiếc khi nghe điều đó.,NEGATIVE
+tôi rất buồn,Tôi rất tiếc khi nghe điều đó.,NEUTRAL
+tôi rất vui,Tôi rất vui khi bạn cảm thấy hạnh phúc!,POSITIVE
+tôi rất vui,Tôi rất vui khi bạn cảm thấy hạnh phúc!,POSITIVE
+tôi rất buồn,"Tôi rất tiếc khi nghe thấy điều đó, tôi muốn bạn biết rằng bạn không đơn độc.",NEGATIVE
+tôi rất buồn,"Tôi rất tiếc khi nghe thấy điều đó, tôi muốn bạn biết rằng bạn không đơn độc.",NEGATIVE
+i'm sad today,"I'm here for you, and I hope things get better soon.",POSITIVE
+i'm sad today,"I'm here for you, and I hope things get better soon.",POSITIVE
+tôi rất buồn,Thật tốt khi bạn chia sẻ cảm xúc của mình với tôi.,negative
+tôi rất buồn,Thật tốt khi bạn chia sẻ cảm xúc của mình với tôi.,positive
+tôi rất vui,I'm thrilled to hear that!,positive
+tôi rất vui,I'm thrilled to hear that!,positive
+tôi rất buồn,"Tôi ở đây vì bạn, xin đừng buồn.",negative
+tôi rất buồn,"Tôi ở đây vì bạn, xin đừng buồn.",positive
+xin chào,"Dạ, có gì em giúp được anh/chị ạ?",neutral
+xin chào,"Dạ, có gì em giúp được anh/chị ạ?",positive
+hôm nay tôi bị té xe,Mong bạn sớm khỏe lại sau tai nạn.,neutral
+hôm nay tôi bị té xe,Mong bạn sớm khỏe lại sau tai nạn.,negative
+nay tôi được điểm thấp,Tôi hiểu rằng bạn cảm thấy thất vọng vì điểm số thấp.,negative
+nay tôi được điểm thấp,Tôi hiểu rằng bạn cảm thấy thất vọng vì điểm số thấp.,negative
